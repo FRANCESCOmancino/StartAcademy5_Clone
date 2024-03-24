@@ -1,0 +1,12 @@
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\bin\Debug\net8.0\Manager.deps.json
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\bin\Debug\net8.0\Manager.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\bin\Debug\net8.0\Manager.pdb
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.AssemblyInfoInputs.cache
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.AssemblyInfo.cs
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.sourcelink.json
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\refint\Manager.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\Manager.pdb
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\Manager\obj\Debug\net8.0\ref\Manager.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8z7TJuq96PiTqCvTlT0lHu77IMCLtGJlPqN01J89X8xVV4H+AVR3o2PVw7IoJdjkFIdDXzHw1YnhpAEr2s2XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manci\\OneDrive\\Desktop\\Betacom\\StartAcademyClone\\StartAcademyClone\\StartAcademyClone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manci\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
+    "C:\\Users\\manci\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
+    "C:\\Users\\manci\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\manci\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\manci\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

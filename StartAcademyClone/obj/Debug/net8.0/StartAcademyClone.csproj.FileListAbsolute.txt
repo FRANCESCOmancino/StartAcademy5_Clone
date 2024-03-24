@@ -1,0 +1,71 @@
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.exe
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.deps.json
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.runtimeconfig.json
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.dll
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.pdb
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.AssemblyInfo.cs
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.dll
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\refint\StartAcademyClone.dll
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.pdb
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.genruntimeconfig.cache
+C:\Users\user\source\repos\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\ref\StartAcademyClone.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.exe
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.deps.json
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.runtimeconfig.json
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.pdb
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.AssemblyInfoInputs.cache
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.AssemblyInfo.cs
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.csproj.CoreCompileInputs.cache
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.sourcelink.json
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\refint\StartAcademyClone.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.pdb
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.genruntimeconfig.cache
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\ref\StartAcademyClone.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.exe
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.deps.json
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.runtimeconfig.json
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.pdb
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.AssemblyInfo.cs
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\refint\StartAcademyClone.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.pdb
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.genruntimeconfig.cache
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\ref\StartAcademyClone.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.csproj.AssemblyReference.cache
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\LibraryFile.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\LibraryFile.pdb
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAca.3774F658.Up2Date
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Manager.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Manager.pdb
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.dll.config
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\manci\OneDrive\Desktop\Betacom\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\StartAcademyClone.dll.config
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\LibraryFile.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Manager.dll
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\LibraryFile.pdb
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\bin\Debug\net8.0\Manager.pdb
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAcademyClone.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\zio cocco\StartAcademyClone\StartAcademyClone\obj\Debug\net8.0\StartAca.3774F658.Up2Date
